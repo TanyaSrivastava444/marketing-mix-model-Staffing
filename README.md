@@ -14,6 +14,8 @@ tests/
 reports/
 
 ## Objectives
+Estimate the causal incremental contribution of marketing channels to high-value placements and determine optimal budget allocation under diminishing returns.
+
 - Estimate channel contribution
 - Apply adstock and saturation effects
 - Bayesian MMM modeling

@@ -1,3 +1,3 @@
-# marketing-mix-model-Staffing
+# Marketing-Mix-Model-Staffing
 MMM in staffing industry for Causality Analysis and to identify channels that lead to high value placement
 

@@ -1,0 +1,6 @@
+channels:
+  - tv
+  - search
+  - social
+
+adstock_decay: 0.5

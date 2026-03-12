@@ -1,12 +1,12 @@
 # Marketing-Mix-Model-Staffing
 MMM in staffing industry for Causality Analysis and to identify channels that lead to high value placement
 
-# Which marketing channels actually drive revenue?
-# How long does advertising continue to influence sales?
-# When does increasing spend stop producing returns?
-# What budget allocation maximizes ROI?
+#### Which marketing channels actually drive revenue?
+#### How long does advertising continue to influence sales?
+#### When does increasing spend stop producing returns?
+#### What budget allocation maximizes ROI?
 
-# Marketing Mix Modeling (Bayesian)
+## Marketing Mix Modeling (Bayesian)
 
 This project demonstrates an end-to-end implementation of Marketing Mix Modeling (MMM) using Bayesian techniques.
 
